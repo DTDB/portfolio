@@ -1,0 +1,357 @@
+	body{
+	
+}
+
+h1{
+	font-family: 'Helvetica', serif;
+	font-size: 18px;
+	color: #CCC;
+	text-decoration: underline;
+}
+
+h2{
+	font-family: 'Helvetica', serif;
+	font-size: 16px;
+}
+
+h3{
+	font-family: 'Helvetica', serif;
+	font-size: 20px;
+	padding-top: 2px;
+	padding-bottom: 0px;
+}
+
+h4{
+	font-family: 'Helvetica', serif;
+	font-size: 30px;
+	color: #000;
+	line-spacing: 10px;
+	padding-bottom: 25px;
+	padding-top: 55px;
+	text-align: center;
+	width: 750px;
+	
+}
+
+h5{
+	font-family: 'Helvetica', serif;
+	font-size: 15px;
+	color: #000;
+	line-spacing: 1px;
+	padding-bottom: 5px;
+	padding-top: 0px;
+	text-align: center;
+	width: 750px;
+	
+}
+
+p{
+	color: #747373;
+	
+}
+
+
+a{
+	
+}
+
+article{
+	
+}
+
+.title{
+	font-family: 'Helvetica', serif;
+	font-size: 20px;
+	padding-top: 20px;	
+	line-spacing: 5px;	
+	text-align: left;
+	padding-left: 75px;
+}
+
+.description{
+	font-family: 'Helvetica', serif;
+	font-size: 14px;
+	line-spacing: 5px;
+	text-align: left;
+	padding-top: 5px;
+	padding-left: 75px;
+	color: #747373;
+}
+
+.medium{
+	font-family: 'Helvetica', serif;
+	font-size: 14px;
+	line-spacing: 5px;
+	text-align: left;
+	padding-top: 2px;
+	padding-left: 75px;
+	color: #747373;
+}
+
+.container{
+	margin: auto;
+	width: 900px;
+	clear: both;
+}
+
+.row{
+	width: 900px;	
+	clear: both;
+	margin:auto;
+}
+
+.clear{
+	clear:both;
+}
+
+.col{
+	float: left;
+}
+
+.col2{
+	float: left;
+	width: 900px;
+	
+}
+
+.col3{
+	float: left;
+	padding-left: 60px;
+	padding-top: 10px;
+	font-family: 'Helvetica', serif;
+	font-size: 12px;
+}
+
+.col4{
+	
+}
+
+.img-responsive{
+	display:block;
+	max-width:100%;	
+	max-height:100%;
+}
+
+.thumbnail{
+	width: 225px;
+	display: inline-block;
+	float: right;
+	padding-right: 55px;
+	padding-top: 25px;
+}
+
+
+.entry-title{
+	
+}
+
+.entry-content{
+	
+}
+
+.entry-footer{
+	
+}
+
+.nav-previous{
+	
+}
+
+.entry-meta{
+	
+}
+
+.widget-title{
+	
+}
+
+.widget-title li:hover{
+	
+}
+
+#reply-title{
+	
+}
+
+#gallery{
+	width: 600px;
+	float:left;
+	clear:both;
+	padding-top: 25px;
+	padding-left: 50px;
+	font-family: 'Helvetica', serif;
+	font-size: 14px;	
+}
+
+#gallery img{
+	display: block;
+	margin: auto;	
+}
+
+#hero {
+	width: 550px;
+	height: 380px;
+	float: left;
+	clear: both;
+	padding-left: 50px;
+	padding-top:  20px;
+	display: block;
+	
+}
+
+#hero img{
+	display: block;
+	margin: auto;
+} 
+
+#logo{
+	float: left;
+	margin-left: 150px;
+}
+
+#info{
+	width: 230px;
+	height: 300px;
+	float: left;	
+	font-family: 'Helvetica', serif;
+	font-size: 14px;
+	padding-left: 65px;	
+	padding-top:  20px;
+	line-spacing: 5px;
+}
+
+#info ul{
+	
+}
+
+#info li{
+	color: #666;
+}
+
+#about{
+	width: 600px;
+	height: 100px;
+	padding-top: 10px;
+	padding-left: 50px;
+	float: left;
+	font-family: 'Helvetica', serif;
+	font-size: 14px;
+}
+
+#thumbs{
+	float: left;
+	width: 225px;
+	height: 600px;
+	margin-top: 20px;
+	padding-top: 0px;
+	overflow: hidden; 
+	overflow-y: scroll;
+}
+
+#thumbs ul{
+	width: 200px;
+	display: table;
+	padding-left: 5px;	
+	padding-right: 5px;
+	padding-top: 15px;
+	height:600px;
+
+}
+
+#thumbs li{
+	float: left;
+	width: 90px;
+	height: 90px;
+	list-style: none;	
+	vertical-align:middle;
+	padding-left: 5px;	
+	padding-top: 5px;
+	
+}
+
+#nav{
+	width: 900px;	
+	float: left;
+	font-size: 30px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-top: 5px;
+	border-top: solid;
+	border-top: solid thick #000;
+	border-bottom: thin;
+	border-bottom: thin solid #000;
+}
+
+#nav ul{
+	padding-right: 125px;
+	float:right;
+}
+
+#nav li{
+	list-style-type: none;
+	display: inline;	
+}
+
+#content{
+	padding-bottom: 20px;
+}
+
+#footer{
+	width: 900px;
+	height: 100px;
+	font-family: 'Helvetica', serif;
+	border-top: solid;
+	border-top: solid thick #000;
+}
+
+#copyright{
+	font-family: 'Helvetica', serif;
+	padding-top: 20px;
+	
+}
+
+#contact{
+	font-family: 'Helvetica', serif;
+	padding-top: 20px;
+	
+}
+
+#sidebar{
+	
+}
+
+#blog-col{
+	
+}
+
+#recent-posts-2{
+	
+}
+
+#recent-posts-2 li{
+	
+}
+
+#recent-comments-2{
+	
+}
+
+#archives-2{
+	
+}
+
+#archives-2 li{
+	
+}
+
+#categories-2{	
+	
+}
+
+#categories-2 li{
+	
+}
+
+#search-3{
+			
+}
