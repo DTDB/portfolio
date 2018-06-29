@@ -237,9 +237,9 @@ article{
 }
 
 #shop img{
-	display: inline;
+	display: block;
 	margin-right: 0px;
-	align-content: left;
+	
 	
 }
 
