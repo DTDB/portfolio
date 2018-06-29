@@ -228,6 +228,15 @@ article{
 	color: #666;
 }
 
+#shop{
+	width: 600px;
+	height: 400px;
+	display: block;
+	clear: both;
+	padding-left: 200px;
+	
+}
+
 #about{
 	width: 600px;
 	height: 100px;
