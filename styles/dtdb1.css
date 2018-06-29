@@ -230,11 +230,10 @@ article{
 
 #shop{
 	width: 600px;
-	height: 400px;
-	display: block;
-	clear: both;
-	padding-left: 200px;
-	
+	float:left;
+	clear:both;
+	padding-top: 250px;
+	padding-left: 300px;
 }
 
 #about{
