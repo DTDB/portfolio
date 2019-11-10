@@ -214,7 +214,8 @@ article{
 
 #logo{
 	float: left;
-	margin-left: 50px;
+	margin-left: 0px;
+	padding-right: 100px;
 }
 
 #info{
