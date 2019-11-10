@@ -214,8 +214,10 @@ article{
 
 #logo{
 	float: left;
-	margin-left: 0px;
-	padding-right: 200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
 }
 
 #info{
