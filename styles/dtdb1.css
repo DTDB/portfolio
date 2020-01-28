@@ -301,7 +301,7 @@ article{
 	float: left;
 	font-size: 30px;
 	padding-bottom: 5px;
-	padding-left: 10px;
+	padding-left: 0px;
 	padding-top: 5px;
 	border-top: solid;
 	border-top: solid thick #000;
@@ -310,8 +310,9 @@ article{
 }
 
 #nav ul{
-	padding-right: 225px;
+	padding-right: 0px;
 	float:right;
+	display: center;
 }
 
 #nav li{
