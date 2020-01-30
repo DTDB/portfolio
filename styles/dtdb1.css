@@ -190,8 +190,8 @@ article{
 	padding-bottom: 25px;
 	font-family: 'Helvetica', serif;
 	font-size: 14px;	
-	overflow-y: hidden; 
-	overflow-x: scroll;
+	overflow-y: scroll; 
+	overflow-x: hidden;
 	white-space: nowrap;
 	
 }
