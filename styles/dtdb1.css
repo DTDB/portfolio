@@ -307,6 +307,8 @@ article{
 	padding-left: 0px;
 	padding-top: 5px;
 	display: center;
+	border-top: solid;
+	border-top: solid thick #000;
 	border-bottom: thin;
 	border-bottom: thin solid #000;
 }
