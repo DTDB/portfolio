@@ -192,6 +192,7 @@ article{
 	font-size: 14px;	
 	overflow-y: hidden; 
 	overflow-x: scroll;
+	white-space: nowrap;
 	
 }
 
