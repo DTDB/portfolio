@@ -189,6 +189,9 @@ article{
 	padding-left: 50px;
 	font-family: 'Helvetica', serif;
 	font-size: 14px;	
+	overflow: hidden; 
+	overflow-x: scroll;
+	
 }
 
 #gallery img{
